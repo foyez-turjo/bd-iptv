@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peace TV Bangla" tvg-logo="https://i.imgur.com/HcnbnOU.png" group-title="ISLAM",Peace TV Bangla
+https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8?@IPTVSoltuion
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peace TV Bangla" tvg-logo="https://i.imgur.com/8zmLbfi.png" group-title="RELGIOUS",Peace TV Bangla
+http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDh/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Religion",Peace TV Bangla
 https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8?Live-TV™
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/atn-bangla1.jpg?x91288" group-title="Bangladesh",ATN Bangla
@@ -59,3 +63,83 @@ http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
 https://rhridoy136.shortcm.li/aljazeera.m3u8
 #EXTINF:0 tvg-id="ext" group-title="English",Sony Movies Action
 http://51.52.156.22:8888/http/009
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/200px-BBC_Earth_logo.png" group-title="Infotainment",BBC Earth
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANIMAL PLANET HD [ENGLISH]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Infotainment",ANIMAL PLANET HD [ENGLISH]
+https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovry ASIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Discovery_asia.jpg" group-title="Infotainment",Discovry ASIA HD
+https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.us(m3u4u)" tvg-name="Nat Geo Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="Infotainment",Nat Geo Wild
+http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Love Nature 4K" tvg-logo="https://cdn6.aptoide.com/imgs/5/1/7/51713cb38f60e82562a65727ce7d5493_icon.png" group-title="Infotainment",Love Nature 4K
+https://bamus-eng-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Popular Science" tvg-logo="" group-title="Infotainment",Popular Science
+https://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NASA TV" tvg-logo="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg" group-title="Infotainment",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cheebies Asia" tvg-logo="https://i.imgur.com/W4KuSN3.png" group-title="HINDI",Cheebies Asia
+http://51.52.156.22:8888/http/003
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="& Prive HD" tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="English",& Prive HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Blue Ant Extreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Blue_ant_extreme_logo.png/220px-Blue_ant_extreme_logo.png" group-title="English",Blue Ant Extreme
+https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png" group-title="English",Fox Movies
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Family Movies HD" tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.png" group-title="English",Fox Family Movies HD
+https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="https://i.imgur.com/9whd4No.png" group-title="English",HBO
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbo.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="English",HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/1.m3u8?token=Zalogi
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Movies Action" tvg-logo="https://i.imgur.com/wl3tjXZ.png?1" group-title="English",Sony Movies Action
+http://51.52.156.22:8888/http/009
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://i.imgur.com/LD1Lj0v.png" group-title="English",DW
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?@IPTVSolution
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" group-title="English",FOX HD
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Weather Channel" tvg-logo="https://i.imgur.com/UdcSRtu.png" group-title="News",The Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8?@amarnettv.live
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Foorti (88.0)" tvg-logo="" group-title="RADIO",Radio Foorti (88.0)
+http://119.148.23.88:1021/;?@IPTVSoltuion
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC Radio(89.2)" tvg-logo="" group-title="RADIO",ABC Radio(89.2)
+http://node-04.zeno.fm/h7n8ug96eeruv?@IPTVSolution
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Today(89.6)" tvg-logo="" group-title="RADIO",Radio Today(89.6)
+http://node-03.zeno.fm/0zha3rfq02quv?@IPTVSolution
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dhaka FM (90.4)" tvg-logo="" group-title="RADIO",Dhaka FM (90.4)
+http://118.179.219.244:8000/;stream.mp3?@IPTVSoltuion
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Ekattor (98.4)" tvg-logo="" group-title="RADIO",Radio Ekattor (98.4)
+http://162.254.149.187:9302/;stream/1;
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Goongoon" tvg-logo="" group-title="RADIO",Radio Goongoon
+http://live.radiogoongoon.com:8888/stream/1/
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Sadhin" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio Sadhin
+http://ample-zeno-03.radiojar.com/8wv4d8g4344tv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Today" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio Today
+http://node-24.zeno.fm/0zha3rfq02quv?rj-ttl=5&rj-tok=AAABdMQIscsAumYfZ0oUroNvhQ
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Sarabela" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio Sarabela
+http://162.254.149.146:9308/;stream/1/;stream/1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Goongoon" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio Goongoon
+http://live.radiogoongoon.com:8888/stream/1/
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colours FM" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Colours FM
+http://45.64.135.88:8000/stream1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dhaka FM" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Dhaka FM
+http://118.179.219.244:8000/
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio ABC" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio ABC
+http://ample-zeno-20.radiojar.com/aqs8z2kn944tv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jagoo FM" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Jagoo FM
+http://128.199.184.111:12496/;stream/1?listening-from-radio-garden=1601015113662
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Abiram" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio Abiram
+https://radioabiram.radioca.st/stream?listening-from-radio-garden=1601015157404
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Ekattor" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio Ekattor
+http://162.254.149.187:9302/;stream/1;?listening-from-radio-garden=1601015834943
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangla Wadio" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Bangla Wadio
+http://162.254.150.34:8201/;?listening-from-radio-garden=1601015028090
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FnF.FM Bangla" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",FnF.FM Bangla
+http://eu6.fastcast4u.com:5099/;stream?listening-from-radio-garden=1601015069589
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SaRaHa" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",SaRaHa
+http://node-30.zeno.fm/5hx71hbuqhruv?listening-from-radio-garden=1601016201300&rj-tok=AAABdMQJqSIA6Gf4cI6DZUMhdA&rj-ttl=5
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spice FM" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Spice FM
+http://162.254.149.187:9300/;?listening-from-radio-garden=1601016233761
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Big FM" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Big FM
+http://sc-bb.1.fm:8017/;?listening-from-radio-garden=1601016386228
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Awaj FM" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Awaj FM
+http://streamasiacdn.atc-labs.com/radioawaj.aac?listening-from-radio-garden=1601016488674
