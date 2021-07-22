@@ -171,17 +171,17 @@ http://103.157.237.18:8000/play/716?fbclid=IwAR2_dMdy444W_dJXt-8xwgl9z-VnuCFTmux
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7cxawaQ1xSUyl6Pa1YzGhZQ3HFkqNlCirzlyfFzn7JB8RRASH&usqp=CAU" group-title="English",HBO
 http://103.157.237.18:8000/play/739?fbclid=IwAR2_dMdy444W_dJXt-8xwgl9z-VnuCFTmuxKhtg0_rkRkpIz_stqVp_NcYg
 #EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="English",HBO Hits
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+http://103.157.237.18:8000/play/740?fbclid=IwAR2_dMdy444W_dJXt-8xwgl9z-VnuCFTmuxKhtg0_rkRkpIz_stqVp_NcYg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English",Star Movies HD
 http://103.157.237.18:8000/play/704?fbclid=IwAR2_dMdy444W_dJXt-8xwgl9z-VnuCFTmuxKhtg0_rkRkpIz_stqVp_NcYg
+#EXTINF:-1 tvg-logo="" group-title="English",movies now
+http://103.157.237.18:8000/play/725?fbclid=IwAR2_dMdy444W_dJXt-8xwgl9z-VnuCFTmuxKhtg0_rkRkpIz_stqVp_NcYg
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" group-title="English",Fox HD
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English",Fox Life HD
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png" group-title="English",Fox Movies
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Family Movies HD" tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.png" group-title="English",Fox Family Movies HD
-https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/cinemax.png" group-title="English",Cinemax
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" tvg-country="HK" tvg-url="" group-title="English",Thrill
