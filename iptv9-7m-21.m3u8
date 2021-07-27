@@ -173,25 +173,20 @@ http://103.157.237.18:8000/play/739?fbclid=IwAR2_dMdy444W_dJXt-8xwgl9z-VnuCFTmux
 http://103.157.237.18:8000/play/740?fbclid=IwAR2_dMdy444W_dJXt-8xwgl9z-VnuCFTmuxKhtg0_rkRkpIz_stqVp_NcYg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English",Star Movies HD
 http://103.157.237.18:8000/play/704?fbclid=IwAR2_dMdy444W_dJXt-8xwgl9z-VnuCFTmuxKhtg0_rkRkpIz_stqVp_NcYg
-#EXTINF:-1 tvg-logo="" group-title="English",movies now
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/63456_movies-now-logo.png.jpg" group-title="English",movies now
 http://103.157.237.18:8000/play/725?fbclid=IwAR2_dMdy444W_dJXt-8xwgl9z-VnuCFTmuxKhtg0_rkRkpIz_stqVp_NcYg
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" group-title="English",Fox HD
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="English",Fox Life HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/FOX_life_HD.png" group-title="English",Fox Life HD
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png" group-title="English",Fox Movies
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1280px-Fox_Movies_%28Asia%29_logo.svg.png",Fox Movies
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/cinemax.png" group-title="English",Cinemax
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" tvg-country="HK" tvg-url="" group-title="English",Thrill
 http://45.126.83.51/qwr9ew/s/s34/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="English",Movie kingdom
-https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zIjiEQa.png" group-title="English",ITV 1
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5gJlGte.jpg" group-title="English",Dove channel
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
-
 
 
 
