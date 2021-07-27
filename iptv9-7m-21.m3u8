@@ -181,8 +181,8 @@ https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1280px-Fox_Movies_%28Asia%29_logo.svg.png",Fox Movies
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/cinemax.png" group-title="English",Cinemax
-https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1200px-Cinemax.svg.png" group-title="English",Cinemax
+http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" tvg-country="HK" tvg-url="" group-title="English",Thrill
 http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zIjiEQa.png" group-title="English",ITV 1
