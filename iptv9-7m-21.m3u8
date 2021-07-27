@@ -198,7 +198,7 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/maste
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/svg06/al-jazeera-logo.svg" group-title="Others",Al Jazeera
+#EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2016/12/al-jazeera-logo.png" group-title="Others",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Others",DW TV
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
