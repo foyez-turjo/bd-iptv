@@ -198,11 +198,11 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/maste
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Others",201.Al Jazeera
+#EXTINF:-1 tvg-logo="" group-title="Others",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Others",202.DW TV
+#EXTINF:-1 tvg-logo="" group-title="Others",DW TV
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Others",203.India News
+#EXTINF:-1 tvg-logo="" group-title="Others",India News
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Screenshot_1-8.png" tvg-country="IN" tvg-url="" group-title="Others",Times Now HD
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
@@ -211,8 +211,9 @@ https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 
 
 
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/474x/de/fc/23/defc2375723ec0e5d75ad1c7595e7dce.jpg" group-title="RADIO",Al Quran Radio
-http://66.45.232.131:9994/;stream.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="RADIO",BANGLADESH BETAR
+http://as3.digitalsynapsebd.com:8263/listen.pls?sid=1
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Foorti (88.0)" tvg-logo="" group-title="RADIO",Radio Foorti (88.0)
 http://119.148.23.88:1021/;?@IPTVSoltuion
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC Radio(89.2)" tvg-logo="" group-title="RADIO",ABC Radio(89.2)
@@ -221,31 +222,5 @@ http://node-04.zeno.fm/h7n8ug96eeruv?@IPTVSolution
 http://node-03.zeno.fm/0zha3rfq02quv?@IPTVSolution
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dhaka FM (90.4)" tvg-logo="" group-title="RADIO",Dhaka FM (90.4)
 http://118.179.219.244:8000/;stream.mp3?@IPTVSoltuion
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Goongoon" tvg-logo="" group-title="RADIO",Radio Goongoon
-http://live.radiogoongoon.com:8888/stream/1/
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Sadhin" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO",Radio Sadhin
-http://ample-zeno-03.radiojar.com/8wv4d8g4344tv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Sarabela" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO",Radio Sarabela
-http://162.254.149.146:9308/;stream/1/;stream/1
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Goongoon" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO",Radio Goongoon
-http://live.radiogoongoon.com:8888/stream/1/
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colours FM" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO",Colours FM
-http://45.64.135.88:8000/stream1
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jagoo FM" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO",Jagoo FM
-http://128.199.184.111:12496/;stream/1?listening-from-radio-garden=1601015113662
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Abiram" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO",Radio Abiram
-https://radioabiram.radioca.st/stream?listening-from-radio-garden=1601015157404
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Ekattor" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO",Radio Ekattor(98.4)
-http://162.254.149.187:9302/;stream/1;?listening-from-radio-garden=1601015834943
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangla Wadio" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO",Bangla Wadio
-http://162.254.150.34:8201/;?listening-from-radio-garden=1601015028090
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FnF.FM Bangla" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO",FnF.FM Bangla
 http://eu6.fastcast4u.com:5099/;stream?listening-from-radio-garden=1601015069589
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SaRaHa" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO",SaRaHa
-http://node-30.zeno.fm/5hx71hbuqhruv?listening-from-radio-garden=1601016201300&rj-tok=AAABdMQJqSIA6Gf4cI6DZUMhdA&rj-ttl=5
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spice FM" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO",Spice FM
-http://162.254.149.187:9300/;?listening-from-radio-garden=1601016233761
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Big FM" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO",Big FM
-http://sc-bb.1.fm:8017/;?listening-from-radio-garden=1601016386228
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Awaj FM" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO",Awaj FM
-http://streamasiacdn.atc-labs.com/radioawaj.aac?listening-from-radio-garden=1601016488674
