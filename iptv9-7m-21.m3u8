@@ -213,7 +213,7 @@ https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="RADIO",BANGLADESH BETAR
-http://as3.digitalsynapsebd.com:8263/listen.pls?sid=1
+http://as3.digitalsynapsebd.com:8263/stream
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Foorti (88.0)" tvg-logo="" group-title="RADIO",Radio Foorti (88.0)
 http://119.148.23.88:1021/;?@IPTVSoltuion
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC Radio(89.2)" tvg-logo="" group-title="RADIO",ABC Radio(89.2)
