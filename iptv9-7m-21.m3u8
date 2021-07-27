@@ -198,7 +198,7 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/maste
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Others",Al Jazeera
+#EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/svg06/al-jazeera-logo.svg" group-title="Others",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Others",DW TV
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
@@ -212,15 +212,15 @@ https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="RADIO",BANGLADESH BETAR
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radio-net-bd/bangladesh-betar.png" group-title="RADIO",BANGLADESH BETAR
 http://as3.digitalsynapsebd.com:8263/stream
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Foorti (88.0)" tvg-logo="" group-title="RADIO",Radio Foorti (88.0)
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radio-net-bd/bbc-bangla.png" group-title="RADIO",BBC Bangla
+http://stream.live.vc.bbcmedia.co.uk/bbc_bangla_radio
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radio-net-bd/foorti.png" group-title="RADIO",Radio Foorti (88.0)
 http://119.148.23.88:1021/;?@IPTVSoltuion
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC Radio(89.2)" tvg-logo="" group-title="RADIO",ABC Radio(89.2)
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radio-net-bd/abc.png" group-title="RADIO",ABC Radio(89.2)
 http://node-04.zeno.fm/h7n8ug96eeruv?@IPTVSolution
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Today(89.6)" tvg-logo="" group-title="RADIO",Radio Today(89.6)
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radio-net-bd/today.png" group-title="RADIO",Radio Today(89.6)
 http://node-03.zeno.fm/0zha3rfq02quv?@IPTVSolution
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dhaka FM (90.4)" tvg-logo="" group-title="RADIO",Dhaka FM (90.4)
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radio-net-bd/dhaka.png" group-title="RADIO",Dhaka FM (90.4)
 http://118.179.219.244:8000/;stream.mp3?@IPTVSoltuion
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FnF.FM Bangla" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO",FnF.FM Bangla
-http://eu6.fastcast4u.com:5099/;stream?listening-from-radio-garden=1601015069589
