@@ -141,7 +141,7 @@ https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29e
 http://tv.pmcon.net/hls/stream32.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NmBF00q.png" group-title="Kids",Disney Channel
 http://70.39.83.58:8278/disneychannelhindikdin/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://www.kindpng.com/picc/m/19-194195_disney-junior-logo-disney-junior-channel-logo-hd.png" group-title="Kids",Disney Junior
+#EXTINF:-1, tvg-logo="" group-title="Kids",Disney Junior
 http://103.157.237.18:8000/play/418?fbclid=IwAR2_dMdy444W_dJXt-8xwgl9z-VnuCFTmuxKhtg0_rkRkpIz_stqVp_NcYg
 #EXTINF:-1, tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/5b7122c8c7fbb343d4f4c4b5/1565809280903/724499789bd9b62b5d5f681ebfb7f1b2.png" group-title="Kids",Disney International HD
 http://103.157.237.18:8000/play/405?fbclid=IwAR2_dMdy444W_dJXt-8xwgl9z-VnuCFTmuxKhtg0_rkRkpIz_stqVp_NcYg
