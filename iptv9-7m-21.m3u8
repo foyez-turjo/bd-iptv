@@ -136,53 +136,37 @@ http://103.81.104.118/hls/cn.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids",Sony Yay
 http://103.81.104.118/hls/stream32.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NmBF00q.png" group-title="Kids",Disney Channel
-http://70.39.83.58:8278/disneychannelhindikdin/playlist.m3u8
+http://103.153.39.36:8000/play/a01y
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/19-194195_disney-junior-logo-disney-junior-channel-logo-hd.png" group-title="Kids",DIsney Junior
-http://103.153.39.34:8000/play/a04o/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" group-title="Kids",DIsney XD
-http://mygoodstream.pw/proxy.php/http://31.220.41.88:8081/live/disneyxd.stream/playlist.m3u8
+http://jupiter.bdcabletv.com/Disney_jr-ENC/video.m3u8
+
 
 
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_UCQ8r1-2dWimt7roVLe36t5hW6mayouhdA&usqp=CAU" group-title="Indian Bangla",Zee Bangla Cinema
-https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
+http://103.167.190.250/hls/zee-bangla-cinema.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Indian Bangla",Sony Aath
-http://bd.digiiptv.net:25461/moznu43/PA2443/566
+http://103.55.144.46/hls/Sony_Aath.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://www.bestmediainfo.com/wp-content/uploads/2016/06/SONY-WAH-LOGO.jpg" group-title="Indian",Sony Wah
-https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gkp0htr.jpg" group-title="Indian",Zee Cafe HD
-https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="English",& Prive HD
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/22bFS2O.png" group-title="English",& Flix HD
-http://103.157.237.18:8000/play/716?fbclid=IwAR2_dMdy444W_dJXt-8xwgl9z-VnuCFTmuxKhtg0_rkRkpIz_stqVp_NcYg
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7cxawaQ1xSUyl6Pa1YzGhZQ3HFkqNlCirzlyfFzn7JB8RRASH&usqp=CAU" group-title="English",HBO
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+http://ip2121.com:8081/web1/hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English",Star Movies HD
-http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39e301782c428ed290f867e554a01803391e8c4b7a6aaad7d48e3e787343a8016a19f53525901742eec53149fdab8b48638675db1861b214b3bb6fc805c4d74009919a599ed109eed659786102baca816127c71a6dbbaf76e1e70877ded5b130fe58&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4553.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/63456_movies-now-logo.png.jpg" group-title="English",movies now
-http://103.153.39.34:8000/play/a050/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" group-title="English",Fox HD
-https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4552.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/FOX_life_HD.png" group-title="English",Fox Life HD
-https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1280px-Fox_Movies_%28Asia%29_logo.svg.png",Fox Movies
-https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
+http://221.120.204.4:80/FOX-LIFE-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1200px-Cinemax.svg.png" group-title="English",Cinemax
-http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
+http://ip2121.com:8081/live/cinemax/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" tvg-country="HK" tvg-url="" group-title="English",Thrill
 http://45.126.83.51/qwr9ew/s/s34/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zIjiEQa.png" group-title="English",ITV 1
-http://tv.zaintv.net:80/Davidemmanuel/D477376480/86805
+
 
 
 
@@ -192,9 +176,7 @@ http://tv.zaintv.net:80/Davidemmanuel/D477376480/86805
 #EXTINF:-1 tvg-logo="https://www.talkwalker.com/Pictures/Brands/small/csm-aljazeera-talkwalker-48c2dcbcef..png" group-title="Others",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/8e/94/4c/8e944c768a60e8f00bbb2fd0bcb71935.png" group-title="Others",DW TV
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2020/04/24/indiatv.jpg?itok=KlEq3Jz7" group-title="Others",India tv
-https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Times_Now_2010.png" group-title="Others",Times Now HD
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 
