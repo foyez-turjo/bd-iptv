@@ -73,8 +73,10 @@ http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",Animal Planet HD
 http://103.55.144.46/hls/animalplanent.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="Documentary",Discovery HD Bangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="Documentary",Discovery Bangla
 http://103.55.144.46/hls/discovery.m3u8
+#EXTINF:-1 tvg-logo="https://s7.vcdn.biz/static/f/1795563691/image.jpg" group-title="Documentary",Discovery HD Bangla
+http://tvserver3.roarzone.info:25461/live/roarhome/noyan/43.m3u8
 
 #EXTINF:-1 tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/ImageRightsManagement_ChannelLogo/mcpGgOM4.png" group-title="Documentary",Discovery Science English
 http://103.55.144.46/hls/dis-science.m3u8
