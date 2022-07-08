@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://prod-media-eng.dhakatribune.com/uploads/2019/09/web-btv-n-1567436219502.jpg", BTV
+http://103.106.2.152:13456/btv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" group-title="Bangladeshi", BTV World
 https://cdn.appv.jagobd.com:444/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="Bangladeshi",ATN Bangla
@@ -106,11 +108,9 @@ http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8?token=soh
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Kids",MBC 3
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_3.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="Kids",Cartoon Network
-http://iptv.prosto.tv:7000/ch207/video.m3u8
+http://103.55.144.46:80/hls/cn.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids",Sony Yay
 http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4560.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/NmBF00q.png" group-title="Kids",Disney Channel
-http://103.153.39.36:8000/play/a01y
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/19-194195_disney-junior-logo-disney-junior-channel-logo-hd.png" group-title="Kids",DIsney Junior
 http://jupiter.bdcabletv.com/Disney_jr-ENC/video.m3u8
 
