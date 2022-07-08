@@ -133,7 +133,7 @@ http://ip2121.com:8081/web1/hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English",Star Movies HD
 http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4553.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/63456_movies-now-logo.png.jpg" group-title="English",movies now
-http://103.136.200.246:8082/Movies_Now_2/tracks-v1a1/mono.m3u8
+http://103.55.144.46/hls/movies-now.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/FOX_life_HD.png" group-title="English",Fox Life HD
 http://221.120.204.4:80/FOX-LIFE-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1200px-Cinemax.svg.png" group-title="English",Cinemax
