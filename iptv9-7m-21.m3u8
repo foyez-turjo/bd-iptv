@@ -121,8 +121,7 @@ http://jupiter.bdcabletv.com/Disney_jr-ENC/video.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_UCQ8r1-2dWimt7roVLe36t5hW6mayouhdA&usqp=CAU" group-title="Indian Bangla",Zee Bangla Cinema
-http://103.167.190.250/hls/zee-bangla-cinema.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Indian Bangla",Sony Aath
 http://103.55.144.46/hls/Sony_Aath.m3u8
 
