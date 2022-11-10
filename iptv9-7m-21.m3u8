@@ -9,7 +9,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
 http://208.86.19.13:81/661.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/avuaf3stbx17d41/asian_tv_bd.png" group-title="Bangladeshi",ASIAN TV HD
-http://15.1.5.14:8082/AsianTV/index.m3u8
+http://208.86.19.13:81/672.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tPZKfLr.png" group-title="Bangladeshi", Deepto TV HD
 http://103.118.76.146:1935/evolution/Deepto.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png" group-title="Bangladeshi",Bangla TV
@@ -67,7 +67,7 @@ http://82.114.67.178:8081/hls/PeaceTV.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",Animal Planet HD
-https://tvs1.aynaott.com/animal_planet_hd/tracks-v1a1/mono.m3u8
+http://175.107.244.52:4455/play/a00m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="Documentary",Discovery Bangla
 http://175.107.244.52:4455/play/a01v/index.m3u8
@@ -111,8 +111,7 @@ http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_3.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="Kids",Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/19-194195_disney-junior-logo-disney-junior-channel-logo-hd.png" group-title="Kids",DIsney Junior
-http://175.107.244.52:4455/play/a03g/index.m3u8
+
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.imgur.com/rm7OMLk.png",Nick
 https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
 #EXTINF:-1 group-title="KIDS",O Kids
