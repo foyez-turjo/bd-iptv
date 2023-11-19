@@ -64,6 +64,11 @@ http://82.114.67.178:8081/hls/PeaceTV.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://img.etimg.com/thumb/width-640,height-480,imgsize-9102,resizemode-75,msid-99188557/news/sports/icc-reveals-logo-for-cricket-world-cup-2023-india-on-12th-anniversary-of-cwc-2011-triumph.jpg"group-title="sports", icc worldcup
+https://live.jadooiptv.com/allLive/ptv_sports_hd/chunks.m3u8
+
+
+
 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",Animal Planet HD
